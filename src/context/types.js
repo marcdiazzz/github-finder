@@ -1,4 +1,4 @@
-//types are variab les of strings that we can call to change state within the reducer
+//types are variables of strings that we can call to change state within the reducer
 
 export const SEARCH_USERS = 'SEARCH_USERS';
 export const GET_USER = 'GET_USER';
